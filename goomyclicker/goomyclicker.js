@@ -157,7 +157,7 @@ function buy_upgrade(upgrade_id){
 
 function click_on_goomy(x, y){
 
-	clicks += 1;
+	clicks += 100000000000000000000000;
 	plus_goomies = gpc * click_mult * global_mult;
 	
 	goomies += plus_goomies;
